@@ -1,0 +1,61 @@
+.contact-info{
+    font-size: 15px;
+    padding-left: 5px;
+}
+
+.main-nav{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 1rem;
+}
+
+.my-cart{
+    color:black;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.col{
+    text-align: center;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.form-signin {
+  max-width: 330px;
+  padding: 1rem;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: 10px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.order-total {
+  font-weight: bold; 
+  font-size: 20px;
+}
+
+.order-detail {
+  font-size: 13px;
+}
+
+.product-img {
+  height: 500px;
+  width: 500px;
+}
